@@ -1,3 +1,4 @@
 Name - Charan
 age - 17
 Gender - Male
+address - 303,sarada residency,nellore
