@@ -2,3 +2,6 @@ Name - Charan
 age - 17
 Gender - Male
 phone - 9381113880
+phone - 7032344377
+address - 303,sarada residency,nellore
+
